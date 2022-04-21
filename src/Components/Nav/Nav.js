@@ -13,9 +13,7 @@ function Nav() {
           <a href="#offer">oferta</a>
         </li>
         <li className="nav-item">
-          <a href="#" className="disabled">
-            kontakt
-          </a>
+          <a className="disabled">kontakt</a>
         </li>
       </ul>
     </nav>
